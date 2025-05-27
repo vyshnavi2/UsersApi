@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a .NET Core Web API that accepts user activity JSON requests, creates directories based on configuration, and stores the requests as JSON files. It implements best practices including logging, exception handling, and configuration management, Separation of concerns, Dependency Injection, use of model classes, Async/await, JWT Token.
+This project is a .NET Core Web API that accepts user activity JSON requests, creates directories based on configuration, and stores the requests as JSON files. It implements best practices including logging, exception handling, and configuration management, Separation of concerns, Dependency Injection, use of model classes, Async/await, JWT Token and global exception handling.
 
 ---
 
