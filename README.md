@@ -14,4 +14,4 @@ This project is a .NET Core Web API that accepts user activity JSON requests, cr
 - (Optional) Postman or Swagger UI for API testing
 
 
-https://stackblitz.com/edit/vitejs-vite-cqsmukuf?file=src%2Fmain.js&terminal=dev ------------------ JS Code 
+
